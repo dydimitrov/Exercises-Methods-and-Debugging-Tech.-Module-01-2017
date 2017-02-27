@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\FilesDirectory\bin\Debug\FilesDirectory.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\FilesDirectory\bin\Debug\FilesDirectory.exe
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\FilesDirectory\bin\Debug\FilesDirectory.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\FilesDirectory\obj\Debug\FilesDirectory.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\FilesDirectory\obj\Debug\FilesDirectory.exe
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\FilesDirectory\obj\Debug\FilesDirectory.pdb

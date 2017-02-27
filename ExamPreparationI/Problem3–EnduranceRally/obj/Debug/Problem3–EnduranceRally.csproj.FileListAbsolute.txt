@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem3–EnduranceRally\bin\Debug\Problem3–EnduranceRally.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem3–EnduranceRally\bin\Debug\Problem3–EnduranceRally.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem3–EnduranceRally\bin\Debug\Problem3–EnduranceRally.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem3–EnduranceRally\obj\Debug\Problem3–EnduranceRally.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem3–EnduranceRally\obj\Debug\Problem3–EnduranceRally.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem3–EnduranceRally\obj\Debug\Problem3–EnduranceRally.pdb

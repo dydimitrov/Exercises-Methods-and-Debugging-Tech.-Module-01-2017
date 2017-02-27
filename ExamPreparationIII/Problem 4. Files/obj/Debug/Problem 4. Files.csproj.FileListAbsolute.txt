@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIII\Problem 4. Files\bin\Debug\Problem_4.Files.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIII\Problem 4. Files\bin\Debug\Problem_4.Files.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIII\Problem 4. Files\bin\Debug\Problem_4.Files.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIII\Problem 4. Files\obj\Debug\Problem 4. Files.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIII\Problem 4. Files\obj\Debug\Problem_4.Files.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIII\Problem 4. Files\obj\Debug\Problem_4.Files.pdb

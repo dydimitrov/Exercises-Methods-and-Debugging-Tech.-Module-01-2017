@@ -1,0 +1,7 @@
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\WordCount\bin\Debug\WordCount.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\WordCount\bin\Debug\text.txt
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\WordCount\bin\Debug\words.txt
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\WordCount\bin\Debug\WordCount.exe
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\WordCount\bin\Debug\WordCount.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\WordCount\obj\Debug\WordCount.exe
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\WordCount\obj\Debug\WordCount.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchFullName", "MatchFullName\MatchFullName.csproj", "{1F7DFB3D-5AFC-45AB-8E2F-6620710CFC60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatchPhoneNumber", "MatchPhoneNumber\MatchPhoneNumber.csproj", "{7166D503-3B27-4A56-AA43-4A37987F06A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplaceATag", "ReplaceATag\ReplaceATag.csproj", "{E0613F38-CE6D-44F7-9057-E8ECAA6073C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F7DFB3D-5AFC-45AB-8E2F-6620710CFC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7DFB3D-5AFC-45AB-8E2F-6620710CFC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7DFB3D-5AFC-45AB-8E2F-6620710CFC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7DFB3D-5AFC-45AB-8E2F-6620710CFC60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7166D503-3B27-4A56-AA43-4A37987F06A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7166D503-3B27-4A56-AA43-4A37987F06A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7166D503-3B27-4A56-AA43-4A37987F06A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7166D503-3B27-4A56-AA43-4A37987F06A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0613F38-CE6D-44F7-9057-E8ECAA6073C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0613F38-CE6D-44F7-9057-E8ECAA6073C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0613F38-CE6D-44F7-9057-E8ECAA6073C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0613F38-CE6D-44F7-9057-E8ECAA6073C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\testCase\bin\Debug\testCase.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\testCase\bin\Debug\testCase.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\testCase\bin\Debug\testCase.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\testCase\obj\Debug\testCase.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\testCase\obj\Debug\testCase.pdb

@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem4–WinningTicket\bin\Debug\Problem4–WinningTicket.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem4–WinningTicket\obj\Debug\Problem4–WinningTicket.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem4–WinningTicket\bin\Debug\Problem4–WinningTicket.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem4–WinningTicket\bin\Debug\Problem4–WinningTicket.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem4–WinningTicket\obj\Debug\Problem4–WinningTicket.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem4–WinningTicket\obj\Debug\Problem4–WinningTicket.pdb

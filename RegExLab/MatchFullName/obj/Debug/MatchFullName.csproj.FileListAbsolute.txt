@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchFullName\bin\Debug\MatchFullName.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchFullName\bin\Debug\MatchFullName.exe
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchFullName\bin\Debug\MatchFullName.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchFullName\obj\Debug\MatchFullName.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchFullName\obj\Debug\MatchFullName.exe
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchFullName\obj\Debug\MatchFullName.pdb

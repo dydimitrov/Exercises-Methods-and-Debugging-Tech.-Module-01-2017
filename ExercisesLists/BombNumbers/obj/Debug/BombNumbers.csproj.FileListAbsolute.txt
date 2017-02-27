@@ -1,0 +1,5 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\BombNumbers\bin\Debug\BombNumbers.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\BombNumbers\bin\Debug\BombNumbers.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\BombNumbers\bin\Debug\BombNumbers.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\BombNumbers\obj\Debug\BombNumbers.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\BombNumbers\obj\Debug\BombNumbers.pdb

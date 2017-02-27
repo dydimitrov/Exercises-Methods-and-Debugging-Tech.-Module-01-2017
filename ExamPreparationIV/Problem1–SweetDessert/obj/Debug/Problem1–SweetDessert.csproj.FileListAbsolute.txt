@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem1–SweetDessert\bin\Debug\Problem1–SweetDessert.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem1–SweetDessert\bin\Debug\Problem1–SweetDessert.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem1–SweetDessert\bin\Debug\Problem1–SweetDessert.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem1–SweetDessert\obj\Debug\Problem1–SweetDessert.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem1–SweetDessert\obj\Debug\Problem1–SweetDessert.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem1–SweetDessert\obj\Debug\Problem1–SweetDessert.pdb

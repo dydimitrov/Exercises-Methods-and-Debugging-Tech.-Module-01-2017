@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBase10 to baseN\bin\Debug\ConvertFromBase10 to baseN.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBase10 to baseN\bin\Debug\ConvertFromBase10 to baseN.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBase10 to baseN\bin\Debug\ConvertFromBase10 to baseN.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBase10 to baseN\obj\Debug\MenthorGroup.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBase10 to baseN\obj\Debug\ConvertFromBase10 to baseN.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBase10 to baseN\obj\Debug\ConvertFromBase10 to baseN.pdb

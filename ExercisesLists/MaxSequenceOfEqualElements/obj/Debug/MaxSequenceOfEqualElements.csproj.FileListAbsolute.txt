@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

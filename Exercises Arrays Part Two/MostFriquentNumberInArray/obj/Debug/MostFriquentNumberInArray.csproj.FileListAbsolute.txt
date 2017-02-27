@@ -1,0 +1,6 @@
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\MostFriquentNumberInArray\bin\Debug\MostFriquentNumberInArray.exe.config
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\MostFriquentNumberInArray\bin\Debug\MostFriquentNumberInArray.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\MostFriquentNumberInArray\bin\Debug\MostFriquentNumberInArray.pdb
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\MostFriquentNumberInArray\obj\Debug\MostFriquentNumberInArray.csprojResolveAssemblyReference.cache
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\MostFriquentNumberInArray\obj\Debug\MostFriquentNumberInArray.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\MostFriquentNumberInArray\obj\Debug\MostFriquentNumberInArray.pdb

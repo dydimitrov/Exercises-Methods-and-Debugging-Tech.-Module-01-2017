@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\PhoneBookUpdate\bin\Debug\PhoneBookUpdate.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\PhoneBookUpdate\bin\Debug\PhoneBookUpdate.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\PhoneBookUpdate\bin\Debug\PhoneBookUpdate.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\PhoneBookUpdate\obj\Debug\PhoneBookUpdate.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\PhoneBookUpdate\obj\Debug\PhoneBookUpdate.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\PhoneBookUpdate\obj\Debug\PhoneBookUpdate.pdb

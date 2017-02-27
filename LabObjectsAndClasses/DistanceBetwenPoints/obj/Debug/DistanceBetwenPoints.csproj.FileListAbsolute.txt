@@ -1,0 +1,6 @@
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\DistanceBetwenPoints\bin\Debug\DistanceBetwenPoints.exe.config
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\DistanceBetwenPoints\bin\Debug\DistanceBetwenPoints.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\DistanceBetwenPoints\bin\Debug\DistanceBetwenPoints.pdb
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\DistanceBetwenPoints\obj\Debug\DistanceBetwenPoints.csprojResolveAssemblyReference.cache
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\DistanceBetwenPoints\obj\Debug\DistanceBetwenPoints.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\DistanceBetwenPoints\obj\Debug\DistanceBetwenPoints.pdb

@@ -1,0 +1,5 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\UnicodeCharacters\bin\Debug\UnicodeCharacters.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\UnicodeCharacters\obj\Debug\UnicodeCharacters.pdb

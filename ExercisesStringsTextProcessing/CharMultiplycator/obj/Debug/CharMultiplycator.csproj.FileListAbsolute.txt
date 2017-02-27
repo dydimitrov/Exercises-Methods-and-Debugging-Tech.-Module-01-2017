@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CharMultiplycator\bin\Debug\CharMultiplycator.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CharMultiplycator\bin\Debug\CharMultiplycator.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CharMultiplycator\bin\Debug\CharMultiplycator.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CharMultiplycator\obj\Debug\CharMultiplycator.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CharMultiplycator\obj\Debug\CharMultiplycator.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CharMultiplycator\obj\Debug\CharMultiplycator.pdb

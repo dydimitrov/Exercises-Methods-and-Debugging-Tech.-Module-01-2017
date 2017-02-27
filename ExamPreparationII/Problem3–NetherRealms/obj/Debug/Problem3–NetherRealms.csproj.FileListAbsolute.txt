@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationII\Problem3–NetherRealms\bin\Debug\Problem3–NetherRealms.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationII\Problem3–NetherRealms\bin\Debug\Problem3–NetherRealms.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationII\Problem3–NetherRealms\bin\Debug\Problem3–NetherRealms.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationII\Problem3–NetherRealms\obj\Debug\Problem3–NetherRealms.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationII\Problem3–NetherRealms\obj\Debug\Problem3–NetherRealms.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationII\Problem3–NetherRealms\obj\Debug\Problem3–NetherRealms.pdb

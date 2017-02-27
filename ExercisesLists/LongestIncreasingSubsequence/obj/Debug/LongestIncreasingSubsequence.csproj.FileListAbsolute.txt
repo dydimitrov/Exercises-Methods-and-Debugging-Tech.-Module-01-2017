@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesLists\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.pdb

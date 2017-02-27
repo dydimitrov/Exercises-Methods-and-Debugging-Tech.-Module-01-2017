@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem2.SoftUniKaraoke\bin\Debug\Problem2.SoftUniKaraoke.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem2.SoftUniKaraoke\obj\Debug\Problem2.SoftUniKaraoke.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem2.SoftUniKaraoke\bin\Debug\Problem2.SoftUniKaraoke.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem2.SoftUniKaraoke\bin\Debug\Problem2.SoftUniKaraoke.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem2.SoftUniKaraoke\obj\Debug\Problem2.SoftUniKaraoke.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem2.SoftUniKaraoke\obj\Debug\Problem2.SoftUniKaraoke.pdb

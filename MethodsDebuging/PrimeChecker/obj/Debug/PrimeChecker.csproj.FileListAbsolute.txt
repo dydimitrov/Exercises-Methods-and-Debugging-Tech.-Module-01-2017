@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\PrimeChecker\obj\Debug\PrimeChecker.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\PrimeChecker\bin\Debug\PrimeChecker.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\PrimeChecker\bin\Debug\PrimeChecker.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\PrimeChecker\obj\Debug\PrimeChecker.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\PrimeChecker\obj\Debug\PrimeChecker.pdb

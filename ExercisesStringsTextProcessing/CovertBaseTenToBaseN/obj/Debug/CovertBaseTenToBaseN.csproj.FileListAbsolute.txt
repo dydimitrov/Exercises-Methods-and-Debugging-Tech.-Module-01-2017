@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CovertBaseTenToBaseN\bin\Debug\CovertBaseTenToBaseN.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CovertBaseTenToBaseN\bin\Debug\CovertBaseTenToBaseN.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CovertBaseTenToBaseN\bin\Debug\CovertBaseTenToBaseN.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CovertBaseTenToBaseN\obj\Debug\CovertBaseTenToBaseN.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CovertBaseTenToBaseN\obj\Debug\CovertBaseTenToBaseN.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\CovertBaseTenToBaseN\obj\Debug\CovertBaseTenToBaseN.csprojResolveAssemblyReference.cache

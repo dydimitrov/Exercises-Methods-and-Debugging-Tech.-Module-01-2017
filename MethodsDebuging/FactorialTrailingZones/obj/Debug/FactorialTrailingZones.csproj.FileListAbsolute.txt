@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\FactorialTrailingZones\bin\Debug\FactorialTrailingZones.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\FactorialTrailingZones\bin\Debug\FactorialTrailingZones.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\FactorialTrailingZones\bin\Debug\FactorialTrailingZones.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\FactorialTrailingZones\obj\Debug\FactorialTrailingZones.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\FactorialTrailingZones\obj\Debug\FactorialTrailingZones.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\FactorialTrailingZones\obj\Debug\FactorialTrailingZones.pdb

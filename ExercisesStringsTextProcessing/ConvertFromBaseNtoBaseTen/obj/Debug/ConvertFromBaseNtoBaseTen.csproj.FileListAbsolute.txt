@@ -1,0 +1,5 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBaseNtoBaseTen\bin\Debug\ConvertFromBaseNtoBaseTen.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBaseNtoBaseTen\bin\Debug\ConvertFromBaseNtoBaseTen.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBaseNtoBaseTen\bin\Debug\ConvertFromBaseNtoBaseTen.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBaseNtoBaseTen\obj\Debug\ConvertFromBaseNtoBaseTen.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesStringsTextProcessing\ConvertFromBaseNtoBaseTen\obj\Debug\ConvertFromBaseNtoBaseTen.pdb

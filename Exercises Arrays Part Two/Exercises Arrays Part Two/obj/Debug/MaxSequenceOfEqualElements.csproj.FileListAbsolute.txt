@@ -1,0 +1,6 @@
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\Exercises Arrays Part Two\bin\Debug\Exercises Arrays Part Two.exe.config
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\Exercises Arrays Part Two\bin\Debug\Exercises Arrays Part Two.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\Exercises Arrays Part Two\bin\Debug\Exercises Arrays Part Two.pdb
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\Exercises Arrays Part Two\obj\Debug\MaxSequenceOfEqualElements.csprojResolveAssemblyReference.cache
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\Exercises Arrays Part Two\obj\Debug\Exercises Arrays Part Two.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\Exercises Arrays Part Two\Exercises Arrays Part Two\obj\Debug\Exercises Arrays Part Two.pdb

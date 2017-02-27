@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\ExercisesDictionariesLambdaAndLINQ\bin\Debug\ExercisesDictionariesLambdaAndLINQ.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\ExercisesDictionariesLambdaAndLINQ\bin\Debug\ExercisesDictionariesLambdaAndLINQ.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\ExercisesDictionariesLambdaAndLINQ\bin\Debug\ExercisesDictionariesLambdaAndLINQ.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\ExercisesDictionariesLambdaAndLINQ\obj\Debug\Phonebook.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\ExercisesDictionariesLambdaAndLINQ\obj\Debug\ExercisesDictionariesLambdaAndLINQ.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\ExercisesDictionariesLambdaAndLINQ\obj\Debug\ExercisesDictionariesLambdaAndLINQ.pdb

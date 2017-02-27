@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\ReplaceATag\bin\Debug\ReplaceATag.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\ReplaceATag\obj\Debug\ReplaceATag.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\ReplaceATag\bin\Debug\ReplaceATag.exe
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\ReplaceATag\bin\Debug\ReplaceATag.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\ReplaceATag\obj\Debug\ReplaceATag.exe
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\ReplaceATag\obj\Debug\ReplaceATag.pdb

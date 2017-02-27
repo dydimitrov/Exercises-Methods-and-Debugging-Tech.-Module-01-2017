@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem2–ArrayManipulator\bin\Debug\Problem2–ArrayManipulator.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem2–ArrayManipulator\bin\Debug\Problem2–ArrayManipulator.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem2–ArrayManipulator\bin\Debug\Problem2–ArrayManipulator.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem2–ArrayManipulator\obj\Debug\Problem2–ArrayManipulator.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem2–ArrayManipulator\obj\Debug\Problem2–ArrayManipulator.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationIV\Problem2–ArrayManipulator\obj\Debug\Problem2–ArrayManipulator.pdb

@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\LastDigitInEnglish\bin\Debug\LastDigitInEnglish.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\LastDigitInEnglish\bin\Debug\LastDigitInEnglish.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\LastDigitInEnglish\bin\Debug\LastDigitInEnglish.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\LastDigitInEnglish\obj\Debug\LastDigitInEnglish.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\LastDigitInEnglish\obj\Debug\LastDigitInEnglish.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\LastDigitInEnglish\obj\Debug\LastDigitInEnglish.pdb

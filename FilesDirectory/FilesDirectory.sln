@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Line Numbers", "FilesDirectory\Line Numbers.csproj", "{32990107-D56B-41FD-857F-45138AA544D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "WordCount\WordCount.csproj", "{776A883A-DF79-40EE-84EA-5177558BEF0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeFiles", "MergeFiles\MergeFiles.csproj", "{BADCBE40-F2D4-4069-9E59-A265AABFC39D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32990107-D56B-41FD-857F-45138AA544D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32990107-D56B-41FD-857F-45138AA544D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32990107-D56B-41FD-857F-45138AA544D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32990107-D56B-41FD-857F-45138AA544D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{776A883A-DF79-40EE-84EA-5177558BEF0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{776A883A-DF79-40EE-84EA-5177558BEF0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{776A883A-DF79-40EE-84EA-5177558BEF0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{776A883A-DF79-40EE-84EA-5177558BEF0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BADCBE40-F2D4-4069-9E59-A265AABFC39D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADCBE40-F2D4-4069-9E59-A265AABFC39D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADCBE40-F2D4-4069-9E59-A265AABFC39D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADCBE40-F2D4-4069-9E59-A265AABFC39D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

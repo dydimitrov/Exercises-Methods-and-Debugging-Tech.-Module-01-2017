@@ -1,0 +1,6 @@
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\RandomWords\bin\Debug\RandomWords.exe.config
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\RandomWords\bin\Debug\RandomWords.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\RandomWords\bin\Debug\RandomWords.pdb
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\RandomWords\obj\Debug\RandomWords.csprojResolveAssemblyReference.cache
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\RandomWords\obj\Debug\RandomWords.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\RandomWords\obj\Debug\RandomWords.pdb

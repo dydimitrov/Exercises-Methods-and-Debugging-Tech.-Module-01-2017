@@ -1,0 +1,6 @@
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\BigIntegerFactorial\bin\Debug\BigIntegerFactorial.exe.config
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\BigIntegerFactorial\bin\Debug\BigIntegerFactorial.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\BigIntegerFactorial\bin\Debug\BigIntegerFactorial.pdb
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\BigIntegerFactorial\obj\Debug\BigIntegerFactorial.csprojResolveAssemblyReference.cache
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\BigIntegerFactorial\obj\Debug\BigIntegerFactorial.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\BigIntegerFactorial\obj\Debug\BigIntegerFactorial.pdb

@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\PalindromeWordsInString\bin\Debug\PalindromeWordsInString.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\PalindromeWordsInString\bin\Debug\PalindromeWordsInString.exe
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\PalindromeWordsInString\bin\Debug\PalindromeWordsInString.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\PalindromeWordsInString\obj\Debug\PalindromeWordsInString.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\PalindromeWordsInString\obj\Debug\PalindromeWordsInString.exe
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\PalindromeWordsInString\obj\Debug\PalindromeWordsInString.pdb

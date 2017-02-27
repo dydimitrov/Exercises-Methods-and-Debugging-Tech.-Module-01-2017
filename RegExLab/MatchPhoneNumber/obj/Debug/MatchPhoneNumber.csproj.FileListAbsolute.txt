@@ -1,0 +1,5 @@
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.exe
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchPhoneNumber\bin\Debug\MatchPhoneNumber.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.exe
+c:\users\snejka\documents\visual studio 2015\Projects\RegExLab\MatchPhoneNumber\obj\Debug\MatchPhoneNumber.pdb

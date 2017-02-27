@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\GeometryCalculator\obj\Debug\GeometryCalculator.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\GeometryCalculator\obj\Debug\GeometryCalculator.pdb

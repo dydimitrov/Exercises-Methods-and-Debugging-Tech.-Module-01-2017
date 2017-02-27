@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\listLab\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\listLab\SplitByWordCasing\bin\Debug\SplitByWordCasing.exe
+c:\users\snejka\documents\visual studio 2015\Projects\listLab\SplitByWordCasing\bin\Debug\SplitByWordCasing.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\listLab\SplitByWordCasing\obj\Debug\SplitByWordCasing.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\listLab\SplitByWordCasing\obj\Debug\SplitByWordCasing.exe
+c:\users\snejka\documents\visual studio 2015\Projects\listLab\SplitByWordCasing\obj\Debug\SplitByWordCasing.pdb

@@ -1,0 +1,5 @@
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DebuggingExerciseSubstring\bin\Debug\DebuggingExerciseSubstring.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DebuggingExerciseSubstring\bin\Debug\DebuggingExerciseSubstring.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DebuggingExerciseSubstring\bin\Debug\DebuggingExerciseSubstring.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DebuggingExerciseSubstring\obj\Debug\DebuggingExerciseSubstring.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DebuggingExerciseSubstring\obj\Debug\DebuggingExerciseSubstring.pdb

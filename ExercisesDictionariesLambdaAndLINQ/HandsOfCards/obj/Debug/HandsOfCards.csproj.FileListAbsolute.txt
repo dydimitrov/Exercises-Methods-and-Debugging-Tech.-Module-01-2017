@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\HandsOfCards.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\HandsOfCards.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\HandsOfCards.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\HandsOfCards\bin\Debug\HandsOfCards.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\HandsOfCards.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\HandsOfCards\obj\Debug\HandsOfCards.pdb

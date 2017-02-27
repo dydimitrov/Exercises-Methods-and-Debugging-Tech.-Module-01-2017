@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem 1. Sino The Walker\bin\Debug\Problem_1.Sino_The_Walker.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem 1. Sino The Walker\obj\Debug\Problem 1. Sino The Walker.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem 1. Sino The Walker\obj\Debug\Problem_1.Sino_The_Walker.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExamPreparationI\Problem 1. Sino The Walker\obj\Debug\Problem_1.Sino_The_Walker.pdb

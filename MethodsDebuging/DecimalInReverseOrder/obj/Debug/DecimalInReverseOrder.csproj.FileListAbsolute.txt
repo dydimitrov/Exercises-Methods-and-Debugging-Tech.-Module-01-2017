@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DecimalInReverseOrder\bin\Debug\DecimalInReverseOrder.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DecimalInReverseOrder\bin\Debug\DecimalInReverseOrder.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DecimalInReverseOrder\bin\Debug\DecimalInReverseOrder.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DecimalInReverseOrder\obj\Debug\DecimalInReverseOrder.exe
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DecimalInReverseOrder\obj\Debug\DecimalInReverseOrder.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\MethodsDebuging\DecimalInReverseOrder\obj\Debug\DecimalInReverseOrder.csprojResolveAssemblyReference.cache

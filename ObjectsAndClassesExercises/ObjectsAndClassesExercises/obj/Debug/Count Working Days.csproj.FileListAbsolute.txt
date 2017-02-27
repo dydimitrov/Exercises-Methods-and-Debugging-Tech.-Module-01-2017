@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\ObjectsAndClassesExercises\bin\Debug\ObjectsAndClassesExercises.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\ObjectsAndClassesExercises\bin\Debug\ObjectsAndClassesExercises.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\ObjectsAndClassesExercises\bin\Debug\ObjectsAndClassesExercises.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\ObjectsAndClassesExercises\obj\Debug\Count Working Days.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\ObjectsAndClassesExercises\obj\Debug\ObjectsAndClassesExercises.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\ObjectsAndClassesExercises\obj\Debug\ObjectsAndClassesExercises.pdb

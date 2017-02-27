@@ -1,0 +1,5 @@
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\MergeFiles\bin\Debug\MergeFiles.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\MergeFiles\bin\Debug\MergeFiles.exe
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\MergeFiles\bin\Debug\MergeFiles.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\MergeFiles\obj\Debug\MergeFiles.exe
+c:\users\snejka\documents\visual studio 2015\Projects\FilesDirectory\MergeFiles\obj\Debug\MergeFiles.pdb

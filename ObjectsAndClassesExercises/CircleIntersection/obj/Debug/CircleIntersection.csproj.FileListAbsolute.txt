@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\CircleIntersection\bin\Debug\CircleIntersection.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\CircleIntersection\obj\Debug\CircleIntersection.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\CircleIntersection\bin\Debug\CircleIntersection.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\CircleIntersection\bin\Debug\CircleIntersection.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\CircleIntersection\obj\Debug\CircleIntersection.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ObjectsAndClassesExercises\CircleIntersection\obj\Debug\CircleIntersection.pdb

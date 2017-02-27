@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\FixEmails\bin\Debug\FixEmails.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\FixEmails\bin\Debug\FixEmails.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\FixEmails\bin\Debug\FixEmails.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\FixEmails\obj\Debug\FixEmails.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\FixEmails\obj\Debug\FixEmails.exe
+c:\users\snejka\documents\visual studio 2015\Projects\ExercisesDictionariesLambdaAndLINQ\FixEmails\obj\Debug\FixEmails.pdb

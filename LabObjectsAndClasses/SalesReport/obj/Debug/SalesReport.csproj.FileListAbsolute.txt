@@ -1,0 +1,6 @@
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\SalesReport\bin\Debug\SalesReport.exe.config
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\SalesReport\bin\Debug\SalesReport.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\SalesReport\bin\Debug\SalesReport.pdb
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\SalesReport\obj\Debug\SalesReport.csprojResolveAssemblyReference.cache
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\SalesReport\obj\Debug\SalesReport.exe
+C:\Users\Snejka\Documents\Visual Studio 2015\Projects\LabObjectsAndClasses\SalesReport\obj\Debug\SalesReport.pdb

@@ -1,0 +1,6 @@
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\OccuranceOfSubstring\bin\Debug\OccuranceOfSubstring.exe.config
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\OccuranceOfSubstring\obj\Debug\OccuranceOfSubstring.csprojResolveAssemblyReference.cache
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\OccuranceOfSubstring\bin\Debug\OccuranceOfSubstring.exe
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\OccuranceOfSubstring\bin\Debug\OccuranceOfSubstring.pdb
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\OccuranceOfSubstring\obj\Debug\OccuranceOfSubstring.exe
+c:\users\snejka\documents\visual studio 2015\Projects\StringLab\OccuranceOfSubstring\obj\Debug\OccuranceOfSubstring.pdb
